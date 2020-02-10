@@ -1,0 +1,18 @@
+// a sample structure file
+New_World
+    a.txt      
+    b.txt
+    A
+        AA
+            a.txt
+            AAA
+                aa.txt
+                bb.txt       
+        BB
+    B	
+        aaa.txt	
+        bbb.txt
+        ccc.txt
+    C
+    D
+	E
