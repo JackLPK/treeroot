@@ -28,11 +28,6 @@ python treeroot.py structure_file
 ```
 This would create the relative root directory in the current working directory, and child files and child directories under that directory.
 
-This script can also be run with an extra argument to specify the path for the relative root directory.
-```
-python treeroot.py structure_file that_directory
-```
-
 If run as executable, the arguments are the same.
 
 ## Author ##
