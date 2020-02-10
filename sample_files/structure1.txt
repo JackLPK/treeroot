@@ -1,5 +1,5 @@
 // a sample structure file
-New_World
+../New_World
     a.txt      
     b.txt
     A
