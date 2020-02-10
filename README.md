@@ -1,4 +1,4 @@
-## Treeroot ##
+# Treeroot #
 
 Treeroot is a script for generating empty files and directories. This script should be run with a 'structure file' to specify what files and/or directories you intend to create, for 'structure file', see `sample_files/structure_files`.
 
