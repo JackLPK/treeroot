@@ -13,8 +13,10 @@ The recommanded way to use Treeroot is processing `treeroot.py` with PyInstaller
 
 Note: beware of illegal characters for files and directories for the operating system.
 
-### Structuring file ###
-A 'structure file' is needed for running this script. This file should contain text modelling or minicing the intended directory structure for creation.
+### Structure file ###
+A 'structure file' is needed for running this script. This file should contain text modelling or minicing the intended directory structure for creation. It is recommanded to not put files between consecutive directories.
+
+Comments can be put into the structure file, start comments with `//`.
 
 Note: directories cannot contain '.' and files should end with a '.' and file extension, except the relative root directory.
 
