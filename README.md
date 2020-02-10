@@ -8,7 +8,7 @@ The idea of the name 'Treeroot' comes from the famous 'tree' command.
 
 
 ## Set up ##
-There are 2 `.py` files: `treeroot.py` and `mp.py`, see `src/treeroot.py` and `src/mp.py`. Running `treeroot.py` with `mp.py` in the same folder will work but might be a little bit troublesome. 
+There are 2 `.py` files: `treeroot.py` and `treerow.py`, see `src/treeroot.py` and `src/treerow.py`. Running `treeroot.py` with `treerow.py` in the same folder will work but might be a little bit troublesome. 
 The recommanded way to use Treeroot is processing `treeroot.py` with PyInstaller first to create it as a single executable.
 
 Note: beware of illegal characters for files and directories for the operating system.
